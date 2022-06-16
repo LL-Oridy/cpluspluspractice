@@ -1,0 +1,5 @@
+﻿  main.cpp
+  线索二叉树.cpp
+F:\C&C++\二叉树\线索二叉树.cpp(54,13): warning C4326: “main”的返回类型应为“int”而非“void”
+  正在生成代码...
+  二叉树.vcxproj -> F:\C&C++\二叉树\Debug\二叉树.exe

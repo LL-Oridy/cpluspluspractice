@@ -1,0 +1,6 @@
+﻿  test.cpp
+  wordcount.cpp
+F:\C&C++\词频统计\wordcount.cpp(18,19): warning C4018: “<”: 有符号/无符号不匹配
+F:\C&C++\词频统计\wordcount.cpp(42,20): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  词频统计.vcxproj -> F:\C&C++\流\Debug\词频统计.exe
